@@ -1,6 +1,6 @@
 {
   "name": "cwp-10",
-  "author": "Andrei Chayeuski",
+  "author": "Vladislav Muraveyko",
   "dependencies": {
     "express": "^4.16.3"
   }
